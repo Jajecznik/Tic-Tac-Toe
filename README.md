@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This project involves creating a library application that allows users to add, store and manage a collection of books.
+This project involves creating a Tic Tac Toe game where user can play against computer. 
 
 ## Getting Started
 Just open the `index.html` file in a web browser.
